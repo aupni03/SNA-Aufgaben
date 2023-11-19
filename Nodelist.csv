@@ -1,0 +1,25 @@
+id,name,sex,type,party
+500,Folge 500,NA,2,NA
+UL,Ursula von der Leyen,2,1,CDU
+LK,Lars Klingbeil,1,1,SPD
+NR,Norbert Röttgen,1,1,CDU
+SW,Sahra Wagenknecht,2,1,Linke
+CS,Constanze Stelzenmüller,2,1,NA
+SPD,SPD,NA,3,NA
+CDU,CDU,NA,3,NA
+Linke,Die Linke,NA,3,NA
+501,Folge 501,NA,2,NA
+CL,Christian Lindner,1,1,FDP
+KS,Karl Schlögel,1,1,NA
+LM,Ljudmyla Melnyk,2,1,NA
+KD,Kristina Dunz,2,1,NA
+EL,Egils Levits,1,1,NA
+FDP,FDP,NA,3,NA
+502,Folge 502,NA,2,NA
+AB,Annalena Baerbock,2,1,Grüne
+FT,Frans Timmermans,1,1,NA
+AM,Andrij Melnyk,1,1,NA
+AGL,Alexander Graf Lambsdorff,1,1,FDP
+ER,Egon Ramms,1,1,NA
+Grüne,Die Grünen,NA,3,NA
+503,,,,
