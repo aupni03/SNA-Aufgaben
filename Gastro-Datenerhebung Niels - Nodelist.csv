@@ -1,0 +1,16 @@
+id,name,type,sex,michelin_rating ,nationality ,county,cuisine_style,alive
+janhar,Jan Hartwig,chef,2,3,deutsch,NA,NA,1
+RJAN,JAN ,restaurant,NA,3,NA,ba,innovativ,NA
+RGästeHaus Erfort,GästeHaus Erfort,restaurant,NA,2,NA,sl,fusion,NA
+klaerf,Klaus Erfort,chef,2,2,deutsch,NA,NA,1
+sveelv,Sven Elverfeld,chef,2,3,deutsch,NA,NA,1
+RAqua,Aqua,restaurant,NA,3,NA,ns,innovativ,NA
+RAtelier,Atelier,restaurant,NA,2,NA,ba,fusion,NA
+RSchwarzwaldstube,Schwarzwaldstube,restaurant,NA,3,NA,bw,französisch,NA
+harwoh,Harald Wohlfahrt,chef,2,3,deutsch,NA,NA,1
+tormic,Torsten Michel,chef,2,3,deutsch,NA,NA,1
+eckwit,Eckart Witzigmann,chef,2,3,österreichisch,NA,NA,1
+pauboc,Paul Bocuse,chef,2,3,französisch,NA,NA,2
+heiwin,Heinz Winkler,chef,2,3,deutsch,NA,NA,2
+clalum,Claus-Peter Lumpp,chef,2,3,deutsch,NA,NA,1
+RBareiss,Restaurant Bareiss,restaurant,NA,3,NA,bw,französisch,NA

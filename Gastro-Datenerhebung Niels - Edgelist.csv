@@ -1,0 +1,18 @@
+from,to,relationship,time
+janhar,RJAN,3,2022
+sveelv,janhar,2,NA
+janhar,RGästeHaus Erfort,3,2006
+janhar,RAqua,3,2007
+janhar,RAtelier,3,2014
+klaerf,janhar,2,NA
+harwoh,RSchwarzwaldstube,3,1980
+tormic,RSchwarzwaldstube,3,2017
+RTantris,harwoh,4,1977
+eckwit,harwoh,1,NA
+eckwit,RTantris,3,1971
+pauboc,eckwit,1,NA
+clalum,RBareiss,3,1992
+RTantris,clalum,4,1987
+heiwin,clalum,1,NA
+heiwin,RTantris,3,1978
+eckwit,clalum,1,NA
